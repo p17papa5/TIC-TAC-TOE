@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-TIC-TQC-TOE project for testing hci 
+TIC-TAC-TOE project for testing hci 
